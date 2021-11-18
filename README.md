@@ -44,5 +44,5 @@ The game is entirely coded in Java, and is playable through installation and com
 ## Additional Information
 For additional information on the development process, requirements and specfications, architecture and design, and more, see the folowing resources:
 <ol>
-  <li> Documentation: https://github.com/akshita-bhasin/csci-4448-5448/blob/master/DOCUMENTS/project_documentation.pdf </li>
+  <li> Documentation: https://github.com/JacobBonner/Battleship/blob/main/DOCUMENTS/project_documentation.pdf </li>
 </ol>
